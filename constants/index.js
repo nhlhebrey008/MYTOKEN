@@ -1,4 +1,4 @@
-export const TOKEN_CONTRACT_ADDRESS = https://grand-kitten-536ae8.netlify.app
+export const TOKEN_CONTRACT_ADDRESS = "0xe1f00e1dada937661f55b1d61d1426e0ab945d2d";
 export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": false,
